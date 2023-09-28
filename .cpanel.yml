@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/u1575278/public_html/
+    - export DEPLOYPATH=/home/u1575278/public_html/omahin.site/
     - /bin/cp index.php $DEPLOYPATH
