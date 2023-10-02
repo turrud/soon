@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/u1575278/public_html/omahin.site/
+    - export DEPLOYPATH=/home/u1575278/public_html/
     - /bin/cp -R font $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
     - /bin/cp -R js $DEPLOYPATH
