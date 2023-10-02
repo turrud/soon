@@ -8,4 +8,4 @@ deployment:
     - /bin/cp -R vendor $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
 
-    - /bin/cp index.php $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
